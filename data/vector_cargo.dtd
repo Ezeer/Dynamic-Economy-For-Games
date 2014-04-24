@@ -1,0 +1,13 @@
+
+<!ELEMENT vector (CargoType+)>
+<!ATTLIST vector
+	type CDATA #REQUIRED
+>
+<!ELEMENT CargoType EMPTY>
+<!ATTLIST CargoType
+	name CDATA #REQUIRED
+	catagory CDATA #REQUIRED
+	mass CDATA #REQUIRED
+	volume CDATA #REQUIRED
+	price CDATA #REQUIRED
+>
