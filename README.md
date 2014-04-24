@@ -12,7 +12,7 @@ About paths for the solution/project :
 
 I use this $(HOME_VEGASTRIKE_MARKET) to define the root of the API .
 So you must define environment variable in windows to be able to compile and link.
-Exemple : On my system , HOME_VEGASTRIKE_MARKET= 
+Exemple : On my system , HOME_VEGASTRIKE_MARKET =  C:\Vegastrike_Market-master
 
 Other dependency is :
 
