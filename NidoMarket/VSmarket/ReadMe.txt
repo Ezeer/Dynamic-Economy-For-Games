@@ -3,7 +3,7 @@
 ========================================================================
 
 AppWizard has created this VSmarket application for you.
-
+Ah ah ah ... thank you
 This file contains a summary of what you will find in each of the files that
 make up your VSmarket application.
 
