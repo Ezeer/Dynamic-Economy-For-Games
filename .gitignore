@@ -33,4 +33,9 @@
 *.cache
 *.ilk
 *.log
+*.pdb
+*.htm
+*.idb
+*.dep
+*.intermediate.manifest
 NidoMarket/NidoMarket.ncb
