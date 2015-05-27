@@ -114,7 +114,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				AdditionalIncludeDirectories="&quot;$(HOME_VEGASTRIKE_MARKET)\NidoMarket\AI&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\common&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src&quot;;D:\program\experimental\vegastrike\objconv\mesher;D:\program\experimental\vegastrike\boost\1_45;&quot;$(HOME_VEGASTRIKE_MARKET)\src\cppunit\include&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\NidoMarket\Time&quot;"
+				AdditionalIncludeDirectories="&quot;$(HOME_VEGASTRIKE_MARKET)\AI&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\common&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src&quot;;D:\program\experimental\vegastrike\objconv\mesher;D:\program\experimental\vegastrike\boost\1_45;&quot;$(HOME_VEGASTRIKE_MARKET)\src\cppunit\include&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\Time&quot;"
 				PreprocessorDefinitions="WIN32;NDEBUG;_CONSOLE"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
@@ -190,10 +190,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\Time\CrudeTimer.cpp"
-				>
-			</File>
-			<File
 				RelativePath="..\..\src\Economy.cpp"
 				>
 			</File>
@@ -246,6 +242,14 @@
 				</File>
 				<File
 					RelativePath="..\AI\MinerOwnedStates.cpp"
+					>
+				</File>
+			</Filter>
+			<Filter
+				Name="Timer"
+				>
+				<File
+					RelativePath="..\Time\CrudeTimer.cpp"
 					>
 				</File>
 			</Filter>
@@ -340,6 +344,14 @@
 				</File>
 				<File
 					RelativePath="..\AI\Telegram.h"
+					>
+				</File>
+			</Filter>
+			<Filter
+				Name="Timer"
+				>
+				<File
+					RelativePath="..\Time\CrudeTimer.h"
 					>
 				</File>
 			</Filter>
