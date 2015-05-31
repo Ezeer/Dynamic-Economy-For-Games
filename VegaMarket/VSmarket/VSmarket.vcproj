@@ -114,7 +114,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				AdditionalIncludeDirectories="&quot;$(HOME_VEGASTRIKE_MARKET)\AI&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\common&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src&quot;;D:\program\experimental\vegastrike\objconv\mesher;D:\program\experimental\vegastrike\boost\1_45;&quot;$(HOME_VEGASTRIKE_MARKET)\src\cppunit\include&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\Time&quot;"
+				AdditionalIncludeDirectories="&quot;$(HOME_VEGASTRIKE_MARKET)\AI&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\common&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\Dependencies&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src&quot;;D:\program\experimental\vegastrike\objconv\mesher;D:\program\experimental\vegastrike\boost\1_45;&quot;$(HOME_VEGASTRIKE_MARKET)\src\cppunit\include&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\Time&quot;"
 				PreprocessorDefinitions="WIN32;NDEBUG;_CONSOLE"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
@@ -352,6 +352,18 @@
 				>
 				<File
 					RelativePath="..\Time\CrudeTimer.h"
+					>
+				</File>
+			</Filter>
+			<Filter
+				Name="dependency"
+				>
+				<File
+					RelativePath="..\..\src\dependencies\expat.h"
+					>
+				</File>
+				<File
+					RelativePath="..\..\src\dependencies\expat_external.h"
 					>
 				</File>
 			</Filter>
