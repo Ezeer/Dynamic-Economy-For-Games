@@ -1,5 +1,6 @@
 // VSmarket.cpp : Defines the entry point for the console application.
 //
+#ifndef BUILD_LIB 
 #include<windows.h> //for sleep()
 #include "stdafx.h"
 #include <string.h>
@@ -95,4 +96,6 @@ if(distanceToMoon==0)
 }
 return 0;
 }
+#endif
+
 

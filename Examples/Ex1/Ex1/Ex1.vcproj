@@ -133,7 +133,9 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
+				AdditionalDependencies="VSmarket.lib"
 				LinkIncremental="1"
+				AdditionalLibraryDirectories="$(HOME_VEGASTRIKE_MARKET)\lib"
 				GenerateDebugInformation="true"
 				SubSystem="1"
 				OptimizeReferences="2"
