@@ -134,7 +134,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalDependencies="xmlparse.lib"
-				LinkIncremental="1"
+				LinkIncremental="2"
 				AdditionalLibraryDirectories="&quot;$(HOME_VEGASTRIKE_MARKET)\lib&quot;"
 				GenerateDebugInformation="true"
 				SubSystem="1"
