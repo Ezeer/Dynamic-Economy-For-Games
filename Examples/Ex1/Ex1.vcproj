@@ -135,7 +135,7 @@
 				Name="VCLinkerTool"
 				AdditionalDependencies="VSmarket.lib"
 				LinkIncremental="1"
-				AdditionalLibraryDirectories="$(HOME_VEGASTRIKE_MARKET)\lib"
+				AdditionalLibraryDirectories="$(HOME_VEGASTRIKE_MARKET)\lib\release"
 				GenerateDebugInformation="true"
 				SubSystem="1"
 				OptimizeReferences="2"
@@ -174,7 +174,7 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\Ex1.cpp"
+				RelativePath=".\Ex1.cpp"
 				>
 			</File>
 		</Filter>
