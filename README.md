@@ -35,10 +35,10 @@ Configuration
 *************************************************************************************************
 About paths for the solution/project :
 
-I use this $(HOME_VEGASTRIKE_MARKET) to define the root of the API for your convenience .
+I use this $(HOME_DEFG) to define the root of the API for your convenience .
 So you just have to define environment variable in windows to be able to compile and link.
 
-Exemple : On my system , HOME_VEGASTRIKE_MARKET =  C:/YOUR_LOCAL_REPO/VegaMarket
+Exemple : On my system , HOME_DEFG =  C:/YOUR_LOCAL_REPO/DEFG
 Or you can manually set the header and lib locations .
 
 Dependencies are :
