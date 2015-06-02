@@ -1,0 +1,129 @@
+
+Miner Bob: All mah fatigue has drained away. Time to find more gold!
+Miner Bob: Walkin' to the goldmine
+Elsa: Moppin' the floor
+Miner Bob: Pickin' up a nugget
+Elsa: Makin' the bed
+Miner Bob: Pickin' up a nugget
+Elsa: Moppin' the floor
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Goin' to the bank. Yes siree
+Elsa: Moppin' the floor
+Miner Bob: Depositing gold. Total savings now: 3
+Miner Bob: Leavin' the bank
+Miner Bob: Walkin' to the goldmine
+Elsa: Makin' the bed
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Boy, ah sure is thusty! Walking to the saloon
+Elsa: Washin' the dishes
+Miner Bob: That's mighty fine sippin' liquer
+Miner Bob: Leaving the saloon, feelin' good
+Miner Bob: Walkin' to the goldmine
+Elsa: Washin' the dishes
+Miner Bob: Pickin' up a nugget
+Elsa: Moppin' the floor
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Goin' to the bank. Yes siree
+Elsa: Moppin' the floor
+Miner Bob: Depositing gold. Total savings now: 4
+Miner Bob: Leavin' the bank
+Miner Bob: Walkin' to the goldmine
+Elsa: Makin' the bed
+Miner Bob: Pickin' up a nugget
+Elsa: Makin' the bed
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Boy, ah sure is thusty! Walking to the saloon
+Elsa: Washin' the dishes
+Miner Bob: That's mighty fine sippin' liquer
+Miner Bob: Leaving the saloon, feelin' good
+Miner Bob: Walkin' to the goldmine
+Elsa: Moppin' the floor
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Goin' to the bank. Yes siree
+Elsa: Makin' the bed
+Miner Bob: Depositing gold. Total savings now: 5
+Miner Bob: WooHoo! Rich enough for now. Back home to mah li'lle lady
+Miner Bob: Leavin' the bank
+Miner Bob: Walkin' home
+Instant telegram dispatched at time: 11.211 by Miner Bob for Elsa. Msg is HiHoneyImHome
+Message handled by Elsa at time: 11.211
+Elsa: Hi honey. Let me make you some of mah fine country stew
+Elsa: Putting the stew in the oven
+Delayed telegram from Elsa recorded at time 11.211 for Elsa. Msg is StewReady
+Elsa: Fussin' over food
+Miner Bob: ZZZZ... 
+Elsa: Puttin' the stew on the table
+Elsa: Walkin' to the can. Need to powda mah pretty li'lle nose
+Elsa: Ahhhhhh! Sweet relief!
+Elsa: Leavin' the Jon
+Miner Bob: ZZZZ... 
+Elsa: Fussin' over food
+Queued telegram ready for dispatch: Sent to Elsa. Msg is StewReady
+Message received by Elsa at time: 12.813
+Elsa: StewReady! Lets eat
+Instant telegram dispatched at time: 12.813 by Elsa for Miner Bob. Msg is StewReady
+Message handled by Miner Bob at time: 12.813
+Miner Bob: Okay Hun, ahm a comin'!
+Miner Bob: Smells Reaaal goood Elsa!
+Elsa: Puttin' the stew on the table
+Elsa: Time to do some more housework!
+Miner Bob: Tastes real good too!
+Miner Bob: Thankya li'lle lady. Ah better get back to whatever ah wuz doin'
+Elsa: Makin' the bed
+Miner Bob: ZZZZ... 
+Elsa: Moppin' the floor
+Miner Bob: ZZZZ... 
+Elsa: Moppin' the floor
+Miner Bob: All mah fatigue has drained away. Time to find more gold!
+Miner Bob: Walkin' to the goldmine
+Elsa: Makin' the bed
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Boy, ah sure is thusty! Walking to the saloon
+Elsa: Moppin' the floor
+Miner Bob: That's mighty fine sippin' liquer
+Miner Bob: Leaving the saloon, feelin' good
+Miner Bob: Walkin' to the goldmine
+Elsa: Makin' the bed
+Miner Bob: Pickin' up a nugget
+Elsa: Moppin' the floor
+Miner Bob: Pickin' up a nugget
+Miner Bob: Ah'm leavin' the goldmine with mah pockets full o' sweet gold
+Miner Bob: Goin' to the bank. Yes siree
+Elsa: Walkin' to the can. Need to powda mah pretty li'lle nose
+Elsa: Ahhhhhh! Sweet relief!
+Elsa: Leavin' the Jon
+Elsa: Time to do some more housework!
+Miner Bob: Depositing gold. Total savings now: 6
+Miner Bob: WooHoo! Rich enough for now. Back home to mah li'lle lady
+Miner Bob: Leavin' the bank
+Miner Bob: Walkin' home
+Instant telegram dispatched at time: 20.02 by Miner Bob for Elsa. Msg is HiHoneyImHome
+Message handled by Elsa at time: 20.02
+Elsa: Hi honey. Let me make you some of mah fine country stew
+Elsa: Putting the stew in the oven
+Delayed telegram from Elsa recorded at time 20.02 for Elsa. Msg is StewReady
+Elsa: Fussin' over food
+Miner Bob: ZZZZ... 
+Elsa: Fussin' over food
+Miner Bob: ZZZZ... 
+Elsa: Fussin' over food
+Queued telegram ready for dispatch: Sent to Elsa. Msg is StewReady
+Message received by Elsa at time: 21.621
+Elsa: StewReady! Lets eat
+Instant telegram dispatched at time: 21.621 by Elsa for Miner Bob. Msg is StewReady
+Message handled by Miner Bob at time: 21.621
+Miner Bob: Okay Hun, ahm a comin'!
+Miner Bob: Smells Reaaal goood Elsa!
+Elsa: Puttin' the stew on the table
+Elsa: Time to do some more housework!
+Miner Bob: Tastes real good too!
+Miner Bob: Thankya li'lle lady. Ah better get back to whatever ah wuz doin'
+Elsa: Makin' the bed
+Miner Bob: ZZZZ... 
+Elsa: Moppin' the floor

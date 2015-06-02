@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ex1", "..\Examples\Ex1\Ex1.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "defg", "Project\VSmarket.vcproj", "{DC8B75F9-185E-4F6C-B567-D211D4FD2237}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WestWorldWithMessaging", "..\Examples\Buckland_AI\WestWorldWithMessaging.vcproj", "{0E2C3421-3A44-486D-8CB3-24DB1BDC5B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{DC8B75F9-185E-4F6C-B567-D211D4FD2237}.Debug|Win32.Build.0 = Debug|Win32
 		{DC8B75F9-185E-4F6C-B567-D211D4FD2237}.Release|Win32.ActiveCfg = Release|Win32
 		{DC8B75F9-185E-4F6C-B567-D211D4FD2237}.Release|Win32.Build.0 = Release|Win32
+		{0E2C3421-3A44-486D-8CB3-24DB1BDC5B87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E2C3421-3A44-486D-8CB3-24DB1BDC5B87}.Debug|Win32.Build.0 = Debug|Win32
+		{0E2C3421-3A44-486D-8CB3-24DB1BDC5B87}.Release|Win32.ActiveCfg = Release|Win32
+		{0E2C3421-3A44-486D-8CB3-24DB1BDC5B87}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
