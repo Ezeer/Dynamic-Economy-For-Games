@@ -11,8 +11,8 @@ This version is designed for Windows system , with a working VC9 solution ( rele
 HOW TO USE IT:
 *************************************************************************************************
 
--Add the header file .
-- link defg.lib ( Location : lib/Release ) and the dependencies with your project.
+- Add the header file in your source :  #include "Economy.hpp"
+- link defg.lib ( Location : lib/Release ) with your project.
 
 *************************************************************************************************
 Tutorial :
