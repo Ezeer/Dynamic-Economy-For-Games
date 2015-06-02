@@ -10,15 +10,13 @@
 #include <cstdio>
 
 
-#include "Base.hpp"
-#include "Cargo.hpp"
-#include "CargoType.hpp"
-#include "Economy.hpp"
-#include "Factory.hpp"
-#include "MPLParse.hpp"
-#include "ProductionOption.hpp"
-#include "XMLNode.hpp"
+#include "Economy.hpp" //contains all other headers by inheritance
 
+/*EXEMPLE 1 : Ganja trip to moon
+You are a pirate , and must deliver some good indian medicine to miners on moon .
+How to use the lib for that ?
+Follow the comments ...
+*/
 
 
 int _tmain(int argc, _TCHAR* argv[])
@@ -33,6 +31,7 @@ Base moonbase;
 Factory earthFactory;
 
 //define cargo type
+//Args=std::string name, std::string category, float mass, float volume,float price
 CargoType ganja("Ganja","Contraband",10,25,1);
 
 //define a cargoHolder for the base
