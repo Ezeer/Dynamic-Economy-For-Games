@@ -1,8 +1,8 @@
-Vegastrike_Market
+Dynamic-Economy-For-Games ( DEFG )
 =================
 
-A library that simulate an economical system for Vegastrike
-Based in the respective work of RedAdder and Nido , from this forum thread :
+A library that simulate an economical system for VideoGames , inspired and
+based on the respective work of RedAdder and Nido , from this forum thread :
 http://forums.vega-strike.org/viewtopic.php?f=21&t=13404
 
 This version is designed for Windows system , with a working VC9 solution ( release mode only ).
@@ -12,7 +12,7 @@ HOW TO USE IT:
 *************************************************************************************************
 
 -Add the header files .
-- link VSmarket.lib ( Location : lib/Release ) and the dependencies with your project.
+- link defg.lib ( Location : lib/Release ) and the dependencies with your project.
 
 *************************************************************************************************
 Tutorial :
