@@ -116,7 +116,7 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				AdditionalIncludeDirectories="&quot;$(HOME_DEFG)\src\Dependencies\Time&quot;;&quot;$(HOME_DEFG)\src\Dependencies&quot;;&quot;$(HOME_DEFG)\AI&quot;;&quot;$(HOME_DEFG)\src\common&quot;;&quot;$(HOME_DEFG)\src&quot;;&quot;$(BOOST_HOME)\&quot;;&quot;$(HOME_DEFG)\Time&quot;"
+				AdditionalIncludeDirectories="&quot;$(HOME_DEFG)\src\Time&quot;;&quot;$(HOME_DEFG)\src\Dependencies&quot;;&quot;$(HOME_DEFG)\AI&quot;;&quot;$(HOME_DEFG)\src\common&quot;;&quot;$(HOME_DEFG)\src&quot;;&quot;$(BOOST_HOME)\&quot;;&quot;$(HOME_DEFG)\Time&quot;"
 				PreprocessorDefinitions="WIN32;NDEBUG;_CONSOLE;BUILD_LIB"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
@@ -186,10 +186,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\AI\FrameCounter.cpp"
-				>
-			</File>
-			<File
 				RelativePath="..\..\src\MPLParse.cpp"
 				>
 			</File>
@@ -205,38 +201,6 @@
 				RelativePath="..\..\src\XMLNode.cpp"
 				>
 			</File>
-			<Filter
-				Name="AI"
-				>
-				<File
-					RelativePath="..\AI\BaseGameEntity.cpp"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\EntityManager.cpp"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\MessageDispatcher.cpp"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\Miner.cpp"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\MinerOwnedStates.cpp"
-					>
-				</File>
-			</Filter>
-			<Filter
-				Name="Timer"
-				>
-				<File
-					RelativePath="..\..\src\dependencies\Time\CrudeTimer.cpp"
-					>
-				</File>
-			</Filter>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -291,54 +255,6 @@
 				RelativePath="..\..\src\XMLNode.hpp"
 				>
 			</File>
-			<Filter
-				Name="AI"
-				>
-				<File
-					RelativePath="..\AI\BaseGameEntity.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\EntityManager.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\EntityNames.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\Locations.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\MessageDispatcher.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\MessageTypes.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\Miner.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\MinerOwnedStates.h"
-					>
-				</File>
-				<File
-					RelativePath="..\AI\Telegram.h"
-					>
-				</File>
-			</Filter>
-			<Filter
-				Name="Timer"
-				>
-				<File
-					RelativePath="..\Time\CrudeTimer.h"
-					>
-				</File>
-			</Filter>
 			<Filter
 				Name="dependency"
 				>
