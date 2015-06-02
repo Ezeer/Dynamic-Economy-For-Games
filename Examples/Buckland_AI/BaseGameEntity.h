@@ -13,6 +13,7 @@
 
 #include "messaging/Telegram.h"
 
+#include "Economy.hpp" // our lib is here
 
 class BaseGameEntity
 {

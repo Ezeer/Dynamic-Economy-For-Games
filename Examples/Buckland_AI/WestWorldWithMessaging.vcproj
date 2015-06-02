@@ -163,9 +163,12 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
+				AdditionalDependencies="defg.lib"
 				OutputFile=".\Release/WestWorldWithMessaging.exe"
+				Version="1.0"
 				LinkIncremental="1"
 				SuppressStartupBanner="true"
+				AdditionalLibraryDirectories="$(HOME_DEFG)\lib\release"
 				ProgramDatabaseFile=".\Release/WestWorldWithMessaging.pdb"
 				SubSystem="1"
 				RandomizedBaseAddress="1"
