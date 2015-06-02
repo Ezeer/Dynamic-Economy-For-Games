@@ -11,7 +11,7 @@ This version is designed for Windows system , with a working VC9 solution ( rele
 HOW TO USE IT:
 *************************************************************************************************
 
--Add the header files .
+-Add the header file .
 - link defg.lib ( Location : lib/Release ) and the dependencies with your project.
 
 *************************************************************************************************

@@ -114,12 +114,13 @@
 				Name="VCCLCompilerTool"
 				Optimization="2"
 				EnableIntrinsicFunctions="true"
-				AdditionalIncludeDirectories="&quot;$(HOME_VEGASTRIKE_MARKET)\src\Dependencies\Time&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\Dependencies&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\AI&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\common&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src&quot;;&quot;$(BOOST_HOME)\&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\src\cppunit\include&quot;;&quot;$(HOME_VEGASTRIKE_MARKET)\Time&quot;"
+				AdditionalIncludeDirectories="&quot;$(HOME_DEFG)\src\Dependencies\Time&quot;;&quot;$(HOME_DEFG)\src\Dependencies&quot;;&quot;$(HOME_DEFG)\AI&quot;;&quot;$(HOME_DEFG)\src\common&quot;;&quot;$(HOME_DEFG)\src&quot;;&quot;$(BOOST_HOME)\&quot;;&quot;$(HOME_DEFG)\Time&quot;"
 				PreprocessorDefinitions="WIN32;NDEBUG;_CONSOLE"
 				RuntimeLibrary="2"
 				EnableFunctionLevelLinking="true"
 				UsePrecompiledHeader="0"
 				WarningLevel="3"
+				Detect64BitPortabilityProblems="true"
 				DebugInformationFormat="3"
 			/>
 			<Tool
@@ -133,9 +134,9 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalDependencies="VSmarket.lib"
+				AdditionalDependencies="defg.lib"
 				LinkIncremental="1"
-				AdditionalLibraryDirectories="$(HOME_VEGASTRIKE_MARKET)\lib\release"
+				AdditionalLibraryDirectories="$(HOME_DEFG)\lib\release"
 				GenerateDebugInformation="true"
 				SubSystem="1"
 				OptimizeReferences="2"
